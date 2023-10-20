@@ -1,7 +1,7 @@
 <h1 align="center">🚀 NLW IA: Shorts Summary 🚀</h1>
 
 <p align="center">
-  <img alt="Shorts summary" src="./public/web.png" width="100%">
+  <img alt="Shorts summary" src="./public/Web.png" width="100%">
 </p>
 
 <h2>
