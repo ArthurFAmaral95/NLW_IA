@@ -1,77 +1,34 @@
-<h1>🚀 NLW IA: Shorts Summary 🚀</h1>
+<h1 align="center">🚀 NLW IA: Shorts Summary 🚀</h1>
+
+<p align="center">
+  <img alt="Shorts summary" src="./public/web.png" width="100%">
+</p>
+
 <h2>
 This was a project built during Rockeseat`s Next Level Week and designed to use Artificial Intelligence to summarize a short video from Youtube.
 </h2>
 
-<hr>
 
-<h3>The Project</h3>
+## 💻 Project
 <p>
 This project has a simple interface where the user inputs the URL of a shorts video from Youtube and then the audio of the video is downloaded, sent to an AI model to transcribe it and finally summarize the content of the video.
 </p>
 
-<hr>
+## 🚀 Technologies
 
-<h3>Technologies</h3>
+This project was developed using the following technologies:
 
-<ol>
-  <li>
-  HTML
-    <ul>
-      <li>Form</li>
-      <li>Class</li>
-      <li>Id</li>
-      <li>Google Fonts</li>
-    </ul>
-  </li>
+- HTML e CSS
+- JavaScript
+- Node.js
+- Git e Github
 
-  <li>
-  CSS
-    <ul>
-      <li>Display Flex</li>
-      <li>Class Selector</li>
-      <li>Id Selector</li>
-      <li>Pseudo Selectors</li>
-    </ul>
-  </li>
+## 🕹 How to use it
+1.  Download the zip file.
+2.  Download the modules needed with <code>npm install</code>.
+3.  Open  the terminal and start the server with <code>npm run server</code>.
+4. Open a new terminal and type <code>npm run web</code> to start the front end and open it on localhost.
 
-  <li>
-  JavaScript
-    <ul>
-      <li>DOM</li>
-      <li>Modules (Import and export)</li>
-      <li>Event Listener</li>
-      <li>Asyncronous Functions</li>
-      <li>Promises</li>
-      <li>Conditionals</li>
-      <li>AI models</li>
-      <li>Try/Catch</li>
-    </ul>
-  </li>
+## 🖼 Layout
 
-  <li>
-  Node.js
-    <ul>
-      <li>Scripts</li>
-      <li>NPM</li>
-      <li>Flags</li>
-      <li>
-      Libraries
-        <ul>
-          <li>Express</li>
-          <li>Cors</li>
-          <li>Axios</li>
-          <li>ytdl-core</li>
-          <li>Xenova/transformes</li>
-          <li>ffmpeg</li>
-          <li>node-wav</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ol>
-
-<p align="center">
-  <img alt="Portfolio project" src="./public/Web.png">
-</p>
-<p>Click <a href="https://www.figma.com/file/JGV1SHw6jkRjrdqGnxnvlZ/Shorts-Summary-%E2%80%A2-Trilha-Foundations-(Community)-(Copy)?node-id=0%3A1&mode=dev">here</a> to see the project on Figma.</p>
+You can check the project layout through [THIS LINK](<https://www.figma.com/file/JGV1SHw6jkRjrdqGnxnvlZ/Shorts-Summary-%E2%80%A2-Trilha-Foundations-(Community)-(Copy)?node-id=801%3A86&mode=dev>). It is necessary to have a [Figma](https://figma.com) account to access it.
